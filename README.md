@@ -1,7 +1,11 @@
 # Version 1.0
 
 <b>tldr</b>: Messages accounts via phone number and API. If you want to add accounts only via phone, then scroll to the end. If you want more free projects like this, then please support me!
+## Improvements and new feature: (manager.py)
 
+Changed the option number for quitting from 5 to 6.
+Added a new option (5) to message a user by their username or ID. The program will ask for the username or ID of the user and the message to be sent. It will then iterate through all the accounts and send the message using each account. If the message sending fails for any account, it will print an error message.
+Please note that sending too many messages in a short period of time may result in the accounts being flagged or banned by Telegram. Use this feature with caution.
 
 # Features
 
